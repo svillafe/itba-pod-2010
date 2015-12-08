@@ -1,0 +1,13 @@
+grant {
+	permission java.net.SocketPermission "127.0.0.1:*", "connect,resolve";
+	permission java.net.SocketPermission "127.0.0.1:*", "accept";
+	permission java.net.SocketPermission "*.unix.lab", "accept";
+	permission java.net.SocketPermission "*.unix.lab", "connect,resolve";
+	permission java.lang.RuntimePermission "setContextClassLoader";
+	permission java.lang.RuntimePermission "createClassLoader";
+	permission java.lang.RuntimePermission "getClassLoader";
+	permission java.lang.RuntimePermission "getProtectionDomain";
+	permission java.lang.RuntimePermission "setProtectionDomain";
+	permission java.net.NetPermission "specifyStreamHandler";
+	permission java.security.AllPermission;
+};

@@ -1,0 +1,557 @@
+Las transacciones por segundo fueron: 26.408867578286866
+Las transacciones por segundo fueron: 0.06640547181087722
+Las transacciones por segundo fueron: 10.004436557231587
+Las transacciones por segundo fueron: 15.807697429750966
+Las transacciones por segundo fueron: 21.187730715074018
+Las transacciones por segundo fueron: 26.404789568332014
+Las transacciones por segundo fueron: 31.56033522259361
+Las transacciones por segundo fueron: 36.661662302793054
+Las transacciones por segundo fueron: 41.72328954497411
+Las transacciones por segundo fueron: 46.73325678995897
+Las transacciones por segundo fueron: 51.73955269145949
+Las transacciones por segundo fueron: 56.77441867842528
+Las transacciones por segundo fueron: 61.803204138558286
+Las transacciones por segundo fueron: 66.81820725529437
+Las transacciones por segundo fueron: 71.73400777250015
+Las transacciones por segundo fueron: 76.72568465693065
+Las transacciones por segundo fueron: 81.7118197487245
+Las transacciones por segundo fueron: 86.70521398201574
+Las transacciones por segundo fueron: 91.70476912007126
+Las transacciones por segundo fueron: 96.68358068129027
+Las transacciones por segundo fueron: 101.65996723456668
+Las transacciones por segundo fueron: 106.6371350664461
+Las transacciones por segundo fueron: 111.58971180663154
+Las transacciones por segundo fueron: 116.5007432500459
+Las transacciones por segundo fueron: 121.5132919117303
+Las transacciones por segundo fueron: 126.50928413701581
+Las transacciones por segundo fueron: 131.43355816575414
+Las transacciones por segundo fueron: 136.405177734785
+Las transacciones por segundo fueron: 141.37129012719564
+Las transacciones por segundo fueron: 146.34417173754994
+Las transacciones por segundo fueron: 151.28434161330065
+Las transacciones por segundo fueron: 156.24129641502407
+Las transacciones por segundo fueron: 160.15956310505064
+Las transacciones por segundo fueron: 165.17184472985576
+Las transacciones por segundo fueron: 170.18712230222982
+Las transacciones por segundo fueron: 175.20507138270497
+Las transacciones por segundo fueron: 180.21110556404298
+Las transacciones por segundo fueron: 185.24630263114662
+Las transacciones por segundo fueron: 190.24711790536549
+Las transacciones por segundo fueron: 195.24917104507162
+Las transacciones por segundo fueron: 200.26617367748116
+Las transacciones por segundo fueron: 205.25308792271804
+Las transacciones por segundo fueron: 210.25806928086106
+Las transacciones por segundo fueron: 215.22865001681393
+Las transacciones por segundo fueron: 220.23560622421957
+Las transacciones por segundo fueron: 225.25229083068814
+Las transacciones por segundo fueron: 230.26464153606898
+Las transacciones por segundo fueron: 235.2737201306503
+Las transacciones por segundo fueron: 240.2875306144778
+Las transacciones por segundo fueron: 245.265353813098
+Las transacciones por segundo fueron: 250.27829713115028
+Las transacciones por segundo fueron: 255.28732894808886
+Las transacciones por segundo fueron: 260.2947883210262
+Las transacciones por segundo fueron: 265.29179921325544
+Las transacciones por segundo fueron: 270.25877529466857
+Las transacciones por segundo fueron: 275.24783100117185
+Las transacciones por segundo fueron: 280.2286556724819
+Las transacciones por segundo fueron: 285.2312783253003
+Las transacciones por segundo fueron: 290.2063462449896
+Las transacciones por segundo fueron: 295.1839133480259
+Las transacciones por segundo fueron: 300.1412097227541
+Las transacciones por segundo fueron: 305.09370563753646
+Las transacciones por segundo fueron: 310.0476918943281
+Las transacciones por segundo fueron: 314.9700777546616
+Las transacciones por segundo fueron: 319.9349018175866
+Las transacciones por segundo fueron: 324.8836679574371
+Las transacciones por segundo fueron: 329.863788490687
+Las transacciones por segundo fueron: 334.8598321402395
+Las transacciones por segundo fueron: 339.8258217202141
+Las transacciones por segundo fueron: 344.7994109218742
+Las transacciones por segundo fueron: 349.77882214884784
+Las transacciones por segundo fueron: 354.7178246152261
+Las transacciones por segundo fueron: 359.60880118129404
+Las transacciones por segundo fueron: 364.5454842061293
+Las transacciones por segundo fueron: 369.4560358418195
+Las transacciones por segundo fueron: 374.3360777910894
+Las transacciones por segundo fueron: 379.2498290051409
+Las transacciones por segundo fueron: 384.12195296154806
+Las transacciones por segundo fueron: 388.9601066116413
+Las transacciones por segundo fueron: 393.8896742735569
+Las transacciones por segundo fueron: 398.8163835581076
+Las transacciones por segundo fueron: 403.742139210724
+Las transacciones por segundo fueron: 408.65055425175706
+Las transacciones por segundo fueron: 413.52360822315114
+Las transacciones por segundo fueron: 418.43216365915725
+Las transacciones por segundo fueron: 423.32163251112155
+Las transacciones por segundo fueron: 428.257469307977
+Las transacciones por segundo fueron: 433.0986797026086
+Las transacciones por segundo fueron: 438.01240977856435
+Las transacciones por segundo fueron: 442.9351345165206
+Las transacciones por segundo fueron: 447.8557410539858
+Las transacciones por segundo fueron: 452.8137473116419
+Las transacciones por segundo fueron: 457.7324602718298
+Las transacciones por segundo fueron: 462.67461662142773
+Las transacciones por segundo fueron: 467.55283383332267
+Las transacciones por segundo fueron: 472.48712187530737
+Las transacciones por segundo fueron: 477.34827330690297
+Las transacciones por segundo fueron: 482.2753116614625
+Las transacciones por segundo fueron: 487.07731536202823
+Las transacciones por segundo fueron: 491.9815941291712
+Las transacciones por segundo fueron: 496.9165783512559
+Las transacciones por segundo fueron: 501.832115072673
+Las transacciones por segundo fueron: 506.758322594114
+Las transacciones por segundo fueron: 511.6545381025872
+Las transacciones por segundo fueron: 516.5575832804333
+Las transacciones por segundo fueron: 521.4359545302958
+Las transacciones por segundo fueron: 526.3144431475389
+Las transacciones por segundo fueron: 531.2007863546693
+Las transacciones por segundo fueron: 536.1083613458139
+Las transacciones por segundo fueron: 541.024230850369
+Las transacciones por segundo fueron: 545.9469919754978
+Las transacciones por segundo fueron: 550.888042296774
+Las transacciones por segundo fueron: 555.8096797616664
+Las transacciones por segundo fueron: 560.7496342453014
+Las transacciones por segundo fueron: 565.6508992724977
+Las transacciones por segundo fueron: 570.5000768202917
+Las transacciones por segundo fueron: 575.4114330368952
+Las transacciones por segundo fueron: 580.358238305605
+Las transacciones por segundo fueron: 585.2555012353199
+Las transacciones por segundo fueron: 590.1624686781622
+Las transacciones por segundo fueron: 595.0555325534938
+Las transacciones por segundo fueron: 599.9715205667131
+Las transacciones por segundo fueron: 604.9432753504517
+Las transacciones por segundo fueron: 609.8224288465614
+Las transacciones por segundo fueron: 614.6717436323003
+Las transacciones por segundo fueron: 619.5287925328727
+Las transacciones por segundo fueron: 624.4486892390033
+Las transacciones por segundo fueron: 629.2825553485636
+Las transacciones por segundo fueron: 634.1866293153685
+Las transacciones por segundo fueron: 639.0624307219131
+Las transacciones por segundo fueron: 643.9733905946002
+Las transacciones por segundo fueron: 648.859233947294
+Las transacciones por segundo fueron: 653.711574196772
+Las transacciones por segundo fueron: 658.6221923487094
+Las transacciones por segundo fueron: 663.548698504733
+Las transacciones por segundo fueron: 668.4825515763418
+Las transacciones por segundo fueron: 673.3567834129824
+Las transacciones por segundo fueron: 678.3107026843363
+Las transacciones por segundo fueron: 683.2101393226366
+Las transacciones por segundo fueron: 688.0755264929228
+Las transacciones por segundo fueron: 692.9165789963286
+Las transacciones por segundo fueron: 697.8576484523113
+Las transacciones por segundo fueron: 702.75618268063
+Las transacciones por segundo fueron: 707.639572599355
+Las transacciones por segundo fueron: 712.5712105934384
+Las transacciones por segundo fueron: 717.4045018301293
+Las transacciones por segundo fueron: 722.3488372572291
+Las transacciones por segundo fueron: 727.0097049489918
+Las transacciones por segundo fueron: 731.9565390238041
+Las transacciones por segundo fueron: 736.8427311047673
+Las transacciones por segundo fueron: 741.7491462328611
+Las transacciones por segundo fueron: 746.6025854597498
+Las transacciones por segundo fueron: 751.3555594651654
+Las transacciones por segundo fueron: 756.2396702791332
+Las transacciones por segundo fueron: 761.0959778260597
+Las transacciones por segundo fueron: 765.9933175451315
+Las transacciones por segundo fueron: 770.8255173343234
+Las transacciones por segundo fueron: 775.6895101131556
+Las transacciones por segundo fueron: 780.4280993648127
+Las transacciones por segundo fueron: 785.2059814086807
+Las transacciones por segundo fueron: 790.0142941204855
+Las transacciones por segundo fueron: 794.8252265328266
+Las transacciones por segundo fueron: 799.6434305839763
+Las transacciones por segundo fueron: 804.509408252165
+Las transacciones por segundo fueron: 809.3607005853495
+Las transacciones por segundo fueron: 814.0609891897125
+Las transacciones por segundo fueron: 818.9375535874582
+Las transacciones por segundo fueron: 823.7681733637095
+Las transacciones por segundo fueron: 828.6269873995523
+Las transacciones por segundo fueron: 833.4288703412857
+Las transacciones por segundo fueron: 838.2773878157562
+Las transacciones por segundo fueron: 842.9291911770023
+Las transacciones por segundo fueron: 847.7763490126011
+Las transacciones por segundo fueron: 852.546460693613
+Las transacciones por segundo fueron: 857.3624871554438
+Las transacciones por segundo fueron: 862.202933859287
+Las transacciones por segundo fueron: 866.9932240792364
+Las transacciones por segundo fueron: 871.8254183239708
+Las transacciones por segundo fueron: 876.424089450884
+Las transacciones por segundo fueron: 881.1826707618335
+Las transacciones por segundo fueron: 885.8572290081338
+Las transacciones por segundo fueron: 890.6291531550688
+Las transacciones por segundo fueron: 895.3859670088187
+Las transacciones por segundo fueron: 900.1834927370577
+Las transacciones por segundo fueron: 904.7795166322328
+Las transacciones por segundo fueron: 909.6038433576072
+Las transacciones por segundo fueron: 914.2557990847898
+Las transacciones por segundo fueron: 918.9469833297785
+Las transacciones por segundo fueron: 923.6978281974707
+Las transacciones por segundo fueron: 928.3657073293672
+Las transacciones por segundo fueron: 933.0922496639977
+Las transacciones por segundo fueron: 937.8249478072396
+Las transacciones por segundo fueron: 942.5928232591702
+Las transacciones por segundo fueron: 947.2857151757523
+Las transacciones por segundo fueron: 952.0014599897387
+Las transacciones por segundo fueron: 956.6926355556135
+Las transacciones por segundo fueron: 961.3727988843057
+Las transacciones por segundo fueron: 966.073844226818
+Las transacciones por segundo fueron: 970.6615229686807
+Las transacciones por segundo fueron: 975.2604428905369
+Las transacciones por segundo fueron: 979.6638303237372
+Las transacciones por segundo fueron: 984.3259781807886
+Las transacciones por segundo fueron: 988.8842815885001
+Las transacciones por segundo fueron: 993.5158880731035
+Las transacciones por segundo fueron: 998.1211189860296
+Las transacciones por segundo fueron: 1002.7137232158711
+Las transacciones por segundo fueron: 1007.0962813624576
+Las transacciones por segundo fueron: 1011.6799451737262
+Las transacciones por segundo fueron: 1016.3113266224548
+Las transacciones por segundo fueron: 1020.7926889088936
+Las transacciones por segundo fueron: 1025.4096569736064
+Las transacciones por segundo fueron: 1030.031095574578
+Las transacciones por segundo fueron: 1034.4365417820588
+Las transacciones por segundo fueron: 1038.9296089872435
+Las transacciones por segundo fueron: 1043.5204726086554
+Las transacciones por segundo fueron: 1048.0568760421352
+Las transacciones por segundo fueron: 1052.6692013281156
+Las transacciones por segundo fueron: 1057.3189091773036
+Las transacciones por segundo fueron: 1061.6004384309613
+Las transacciones por segundo fueron: 1066.097544947895
+Las transacciones por segundo fueron: 1070.6566635962943
+Las transacciones por segundo fueron: 1075.2307097964544
+Las transacciones por segundo fueron: 1079.7447429448835
+Las transacciones por segundo fueron: 1084.3470329260967
+Las transacciones por segundo fueron: 1088.6835311723078
+Las transacciones por segundo fueron: 1093.2806819122723
+Las transacciones por segundo fueron: 1097.8424221079829
+Las transacciones por segundo fueron: 1102.4468681858013
+Las transacciones por segundo fueron: 1107.0494718661755
+Las transacciones por segundo fueron: 1111.5627970445705
+Las transacciones por segundo fueron: 1115.8205131591494
+Las transacciones por segundo fueron: 1120.2837877204502
+Las transacciones por segundo fueron: 1124.7988607287516
+Las transacciones por segundo fueron: 1129.1115996512538
+Las transacciones por segundo fueron: 1133.613135036726
+Las transacciones por segundo fueron: 1137.994377646486
+Las transacciones por segundo fueron: 1142.4627279309027
+Las transacciones por segundo fueron: 1146.8073381135487
+Las transacciones por segundo fueron: 1151.1870411027487
+Las transacciones por segundo fueron: 1155.4776752951757
+Las transacciones por segundo fueron: 1159.8451701262286
+Las transacciones por segundo fueron: 1164.2601842829356
+Las transacciones por segundo fueron: 1168.621987233134
+Las transacciones por segundo fueron: 1173.0614923500254
+Las transacciones por segundo fueron: 1177.1055680083034
+Las transacciones por segundo fueron: 1181.4259025809513
+Las transacciones por segundo fueron: 1185.7616015783299
+Las transacciones por segundo fueron: 1190.1270743180596
+Las transacciones por segundo fueron: 1194.4209239507825
+Las transacciones por segundo fueron: 1198.8403010788775
+Las transacciones por segundo fueron: 1202.9392510114865
+Las transacciones por segundo fueron: 1207.2657127027117
+Las transacciones por segundo fueron: 1211.6058443073678
+Las transacciones por segundo fueron: 1215.9170698550106
+Las transacciones por segundo fueron: 1220.2638089921256
+Las transacciones por segundo fueron: 1224.3604113478575
+Las transacciones por segundo fueron: 1228.7149598708065
+Las transacciones por segundo fueron: 1232.9782514107776
+Las transacciones por segundo fueron: 1237.2568311424795
+Las transacciones por segundo fueron: 1241.4464215474638
+Las transacciones por segundo fueron: 1245.792922000834
+Las transacciones por segundo fueron: 1249.8306647530312
+Las transacciones por segundo fueron: 1254.1903852678574
+Las transacciones por segundo fueron: 1258.6141097074337
+Las transacciones por segundo fueron: 1262.939521844723
+Las transacciones por segundo fueron: 1267.2927406419115
+Las transacciones por segundo fueron: 1271.712468831121
+Las transacciones por segundo fueron: 1275.7478599369604
+Las transacciones por segundo fueron: 1280.0306500626818
+Las transacciones por segundo fueron: 1284.443216831059
+Las transacciones por segundo fueron: 1288.7577964023021
+Las transacciones por segundo fueron: 1293.067024378209
+Las transacciones por segundo fueron: 1297.0252824376096
+Las transacciones por segundo fueron: 1301.2850477140553
+Las transacciones por segundo fueron: 1305.5908188439978
+Las transacciones por segundo fueron: 1309.8771574243276
+Las transacciones por segundo fueron: 1314.248919889873
+Las transacciones por segundo fueron: 1318.50592162273
+Las transacciones por segundo fueron: 1322.5996173327344
+Las transacciones por segundo fueron: 1326.7137110515323
+Las transacciones por segundo fueron: 1330.9436672896693
+Las transacciones por segundo fueron: 1335.0886338513797
+Las transacciones por segundo fueron: 1339.3839285682598
+Las transacciones por segundo fueron: 1343.65789621653
+Las transacciones por segundo fueron: 1347.0133286629978
+Las transacciones por segundo fueron: 1351.240868462196
+Las transacciones por segundo fueron: 1355.4269116703988
+Las transacciones por segundo fueron: 1359.5850294639122
+Las transacciones por segundo fueron: 1361.9574911681243
+Las transacciones por segundo fueron: 1365.3494584716707
+Las transacciones por segundo fueron: 1368.9447816490165
+Las transacciones por segundo fueron: 1371.6612451403703
+Las transacciones por segundo fueron: 1375.9125776042938
+Las transacciones por segundo fueron: 1374.9433455266128
+Las transacciones por segundo fueron: 1373.6491267861193
+Las transacciones por segundo fueron: 1372.525927543776
+Las transacciones por segundo fueron: 1371.075793464947
+Las transacciones por segundo fueron: 1369.6897691131296
+Las transacciones por segundo fueron: 1367.9466279696423
+Las transacciones por segundo fueron: 1366.3314942058687
+Las transacciones por segundo fueron: 1364.633072339723
+Las transacciones por segundo fueron: 1362.853353227048
+Las transacciones por segundo fueron: 1361.1839337259473
+Las transacciones por segundo fueron: 1359.7204276561645
+Las transacciones por segundo fueron: 1358.0987319196424
+Las transacciones por segundo fueron: 1356.6819922728237
+Las transacciones por segundo fueron: 1355.0611855187353
+Las transacciones por segundo fueron: 1353.6092593739727
+Las transacciones por segundo fueron: 1352.0464693392473
+Las transacciones por segundo fueron: 1350.5928155793363
+Las transacciones por segundo fueron: 1349.1683067469567
+Las transacciones por segundo fueron: 1347.7271955405781
+Las transacciones por segundo fueron: 1346.1476241379767
+Las transacciones por segundo fueron: 1344.5490209555376
+Las transacciones por segundo fueron: 1343.057654326913
+Las transacciones por segundo fueron: 1341.5439272905514
+Las transacciones por segundo fueron: 1339.9341524788488
+Las transacciones por segundo fueron: 1338.4289052646848
+Las transacciones por segundo fueron: 1337.0088912642318
+Las transacciones por segundo fueron: 1335.4952719245055
+Las transacciones por segundo fueron: 0.06639224538573894El contador da:0Fecha:1290504361327
+Las transacciones por segundo fueron: 9.891767210787792El contador da:1Fecha:1290504391346
+Las transacciones por segundo fueron: 15.844906328641997El contador da:2Fecha:1290504421362
+Las transacciones por segundo fueron: 21.269512113919355El contador da:3Fecha:1290504451385
+Las transacciones por segundo fueron: 26.480707336021606El contador da:4Fecha:1290504481413
+Las transacciones por segundo fueron: 31.622156700107166El contador da:5Fecha:1290504511434
+Las transacciones por segundo fueron: 36.743873886335805El contador da:6Fecha:1290504541448
+Las transacciones por segundo fueron: 41.80672548767112El contador da:7Fecha:1290504571461
+Las transacciones por segundo fueron: 46.874387768696074El contador da:8Fecha:1290504601471
+Las transacciones por segundo fueron: 51.927654666372185El contador da:9Fecha:1290504631501
+Las transacciones por segundo fueron: 56.976460176429725El contador da:10Fecha:1290504661511
+Las transacciones por segundo fueron: 61.99314148014273El contador da:11Fecha:1290504691531
+Las transacciones por segundo fueron: 67.00561177994147El contador da:12Fecha:1290504721539
+Las transacciones por segundo fueron: 72.03095006637092El contador da:13Fecha:1290504751557
+Las transacciones por segundo fueron: 77.05755195710654El contador da:14Fecha:1290504781569
+Las transacciones por segundo fueron: 82.04820727063293El contador da:15Fecha:1290504811582
+Las transacciones por segundo fueron: 87.04043542424995El contador da:16Fecha:1290504841592
+Las transacciones por segundo fueron: 92.04149614542685El contador da:17Fecha:1290504871608
+Las transacciones por segundo fueron: 97.03621009417147El contador da:18Fecha:1290504901628
+Las transacciones por segundo fueron: 101.708957850034El contador da:19Fecha:1290504931644
+Las transacciones por segundo fueron: 105.71370072700918El contador da:20Fecha:1290504961659
+Las transacciones por segundo fueron: 110.77006983168812El contador da:21Fecha:1290504991667
+Las transacciones por segundo fueron: 115.81204047247498El contador da:22Fecha:1290505021679
+Las transacciones por segundo fueron: 120.8523583454654El contador da:23Fecha:1290505051689
+Las transacciones por segundo fueron: 125.88721914924861El contador da:24Fecha:1290505081702
+Las transacciones por segundo fueron: 130.64187631212124El contador da:25Fecha:1290505111717
+Las transacciones por segundo fueron: 134.99131326794608El contador da:26Fecha:1290505141723
+Las transacciones por segundo fueron: 139.98035065956125El contador da:27Fecha:1290505171731
+Las transacciones por segundo fueron: 144.48361636866912El contador da:28Fecha:1290505201927
+Las transacciones por segundo fueron: 148.93155782775307El contador da:29Fecha:1290505231940
+Las transacciones por segundo fueron: 154.001983190928El contador da:30Fecha:1290505261954
+Las transacciones por segundo fueron: 159.08627090631666El contador da:31Fecha:1290505291964
+Las transacciones por segundo fueron: 164.1434017955971El contador da:32Fecha:1290505321977
+Las transacciones por segundo fueron: 169.1790962412489El contador da:33Fecha:1290505351991
+Las transacciones por segundo fueron: 174.24303133113136El contador da:34Fecha:1290505382002
+Las transacciones por segundo fueron: 178.93887431914465El contador da:35Fecha:1290505412060
+Las transacciones por segundo fueron: 183.1833832355821El contador da:36Fecha:1290505442066
+Las transacciones por segundo fueron: 188.26793957476366El contador da:37Fecha:1290505472080
+Las transacciones por segundo fueron: 193.31177926604855El contador da:38Fecha:1290505502112
+Las transacciones por segundo fueron: 198.36524807145483El contador da:39Fecha:1290505532126
+Las transacciones por segundo fueron: 203.41348633051044El contador da:40Fecha:1290505562140
+Las transacciones por segundo fueron: 208.43202425890505El contador da:41Fecha:1290505592151
+Las transacciones por segundo fueron: 213.478778150673El contador da:42Fecha:1290505622159
+Las transacciones por segundo fueron: 218.52307612198936El contador da:43Fecha:1290505652175
+Las transacciones por segundo fueron: 223.55080247528124El contador da:44Fecha:1290505682187
+Las transacciones por segundo fueron: 228.5669104797659El contador da:45Fecha:1290505712195
+Las transacciones por segundo fueron: 233.56292690614603El contador da:46Fecha:1290505742203
+Las transacciones por segundo fueron: 238.03031928732773El contador da:47Fecha:1290505772262
+Las transacciones por segundo fueron: 242.31805781820478El contador da:48Fecha:1290505802270
+Las transacciones por segundo fueron: 246.0759514114462El contador da:49Fecha:1290505832286
+Las transacciones por segundo fueron: 251.13156794222834El contador da:50Fecha:1290505862296
+Las transacciones por segundo fueron: 256.19918101019954El contador da:51Fecha:1290505892309
+Las transacciones por segundo fueron: 261.26957256649183El contador da:52Fecha:1290505922317
+Las transacciones por segundo fueron: 266.3383696560415El contador da:53Fecha:1290505952323
+Las transacciones por segundo fueron: 271.3943170156417El contador da:54Fecha:1290505982334
+Las transacciones por segundo fueron: 276.38478995344167El contador da:55Fecha:1290506012341
+Las transacciones por segundo fueron: 281.38829569587534El contador da:56Fecha:1290506042352
+Las transacciones por segundo fueron: 286.39120238409737El contador da:57Fecha:1290506072362
+Las transacciones por segundo fueron: 291.4267427134488El contador da:58Fecha:1290506102370
+Las transacciones por segundo fueron: 296.47263539256295El contador da:59Fecha:1290506132380
+Las transacciones por segundo fueron: 301.4754992894235El contador da:60Fecha:1290506162389
+Las transacciones por segundo fueron: 306.5059635335839El contador da:61Fecha:1290506192394
+Las transacciones por segundo fueron: 311.55547477508355El contador da:62Fecha:1290506222399
+Las transacciones por segundo fueron: 316.6272329040212El contador da:63Fecha:1290506252407
+Las transacciones por segundo fueron: 321.7085813333223El contador da:64Fecha:1290506282414
+Las transacciones por segundo fueron: 326.77843760744275El contador da:65Fecha:1290506312421
+Las transacciones por segundo fueron: 331.8418089058636El contador da:66Fecha:1290506342427
+Las transacciones por segundo fueron: 336.8955426895084El contador da:67Fecha:1290506372434
+Las transacciones por segundo fueron: 341.92627796261326El contador da:68Fecha:1290506402440
+Las transacciones por segundo fueron: 346.97320997590344El contador da:69Fecha:1290506432445
+Las transacciones por segundo fueron: 351.9831848905959El contador da:70Fecha:1290506462450
+Las transacciones por segundo fueron: 357.0268381325133El contador da:71Fecha:1290506492457
+Las transacciones por segundo fueron: 352.07262660193254El contador da:72Fecha:1290506584336
+Las transacciones por segundo fueron: 357.11300188793547El contador da:73Fecha:1290506614343
+Las transacciones por segundo fueron: 362.13361437819475El contador da:74Fecha:1290506644353
+Las transacciones por segundo fueron: 367.12976127375646El contador da:75Fecha:1290506674364
+Las transacciones por segundo fueron: 372.1618208449634El contador da:76Fecha:1290506704371
+Las transacciones por segundo fueron: 377.19686498034645El contador da:77Fecha:1290506734378
+Las transacciones por segundo fueron: 382.23379222787855El contador da:78Fecha:1290506764389
+Las transacciones por segundo fueron: 387.2527714918265El contador da:79Fecha:1290506794397
+Las transacciones por segundo fueron: 392.281655494345El contador da:80Fecha:1290506824405
+Las transacciones por segundo fueron: 397.1518552053518El contador da:81Fecha:1290506854417
+Las transacciones por segundo fueron: 402.11207453564936El contador da:82Fecha:1290506884429
+Las transacciones por segundo fueron: 406.35807675264914El contador da:83Fecha:1290506914458
+Las transacciones por segundo fueron: 410.0521087313204El contador da:84Fecha:1290506944479
+Las transacciones por segundo fueron: 415.0122554148692El contador da:85Fecha:1290506974483
+Las transacciones por segundo fueron: 420.01510025644853El contador da:86Fecha:1290507004491
+Las transacciones por segundo fueron: 425.03071711204467El contador da:87Fecha:1290507034499
+Las transacciones por segundo fueron: 430.05457927312El contador da:88Fecha:1290507064507
+Las transacciones por segundo fueron: 435.0820557342953El contador da:89Fecha:1290507094511
+Las transacciones por segundo fueron: 440.0999186541216El contador da:90Fecha:1290507124517
+Las transacciones por segundo fueron: 445.12928801234926El contador da:91Fecha:1290507154523
+Las transacciones por segundo fueron: 450.13969777364383El contador da:92Fecha:1290507184528
+Las transacciones por segundo fueron: 455.16733565133353El contador da:93Fecha:1290507214534
+Las transacciones por segundo fueron: 460.196847242234El contador da:94Fecha:1290507244545
+Las transacciones por segundo fueron: 465.1781771837722El contador da:95Fecha:1290507274552
+Las transacciones por segundo fueron: 470.21634046580806El contador da:96Fecha:1290507304558
+Las transacciones por segundo fueron: 475.24152447369914El contador da:97Fecha:1290507334568
+Las transacciones por segundo fueron: 480.2666780637315El contador da:98Fecha:1290507364579
+Las transacciones por segundo fueron: 485.25110954158197El contador da:99Fecha:1290507394589
+Las transacciones por segundo fueron: 490.2752655980374El contador da:100Fecha:1290507424593
+Las transacciones por segundo fueron: 494.7943342178343El contador da:101Fecha:1290507454603
+Las transacciones por segundo fueron: 499.79049560614317El contador da:102Fecha:1290507484618
+Las transacciones por segundo fueron: 504.72735490321827El contador da:103Fecha:1290507514625
+Las transacciones por segundo fueron: 509.63504302338345El contador da:104Fecha:1290507544635
+Las transacciones por segundo fueron: 514.5363478390157El contador da:105Fecha:1290507574647
+Las transacciones por segundo fueron: 519.4698377945733El contador da:106Fecha:1290507604658
+Las transacciones por segundo fueron: 524.4787143201208El contador da:107Fecha:1290507634665
+Las transacciones por segundo fueron: 529.4518618075195El contador da:108Fecha:1290507664672
+Las transacciones por segundo fueron: 534.4416172403701El contador da:109Fecha:1290507694679
+Las transacciones por segundo fueron: 539.2798303115119El contador da:110Fecha:1290507724683
+Las transacciones por segundo fueron: 544.2712237559018El contador da:111Fecha:1290507754690
+Las transacciones por segundo fueron: 549.215608606406El contador da:112Fecha:1290507784719
+Las transacciones por segundo fueron: 554.079027867394El contador da:113Fecha:1290507814757
+Las transacciones por segundo fueron: 558.9934674972689El contador da:114Fecha:1290507844763
+Las transacciones por segundo fueron: 563.9246734048872El contador da:115Fecha:1290507874786
+Las transacciones por segundo fueron: 568.8081928050768El contador da:116Fecha:1290507904796
+Las transacciones por segundo fueron: 573.7575270673467El contador da:117Fecha:1290507934808
+Las transacciones por segundo fueron: 578.7362199904547El contador da:118Fecha:1290507964814
+Las transacciones por segundo fueron: 583.667459762992El contador da:119Fecha:1290507994828
+Las transacciones por segundo fueron: 588.5703815844307El contador da:120Fecha:1290508024842
+Las transacciones por segundo fueron: 593.5254116725192El contador da:121Fecha:1290508054848
+Las transacciones por segundo fueron: 598.532080644622El contador da:122Fecha:1290508084883
+Las transacciones por segundo fueron: 603.3390347802413El contador da:123Fecha:1290508114893
+Las transacciones por segundo fueron: 608.2688410554708El contador da:124Fecha:1290508144903
+Las transacciones por segundo fueron: 613.1540656104821El contador da:125Fecha:1290508174945
+Las transacciones por segundo fueron: 617.6702988907407El contador da:126Fecha:1290508204958
+Las transacciones por segundo fueron: 622.5499915010398El contador da:127Fecha:1290508234970
+Las transacciones por segundo fueron: 627.4272281324586El contador da:128Fecha:1290508264984
+Las transacciones por segundo fueron: 632.1653978211751El contador da:129Fecha:1290508294991
+Las transacciones por segundo fueron: 637.0156474199489El contador da:130Fecha:1290508324998
+Las transacciones por segundo fueron: 641.7996565026884El contador da:131Fecha:1290508355023
+Las transacciones por segundo fueron: 646.5919228438935El contador da:132Fecha:1290508385031
+Las transacciones por segundo fueron: 651.5011237998567El contador da:133Fecha:1290508415042
+Las transacciones por segundo fueron: 656.3977036155295El contador da:134Fecha:1290508445049
+Las transacciones por segundo fueron: 661.1248640949274El contador da:135Fecha:1290508475060
+Las transacciones por segundo fueron: 665.7820660509808El contador da:136Fecha:1290508505197
+Las transacciones por segundo fueron: 670.3926591645499El contador da:137Fecha:1290508535210
+Las transacciones por segundo fueron: 675.3227668233393El contador da:138Fecha:1290508565247
+Las transacciones por segundo fueron: 679.6991182390858El contador da:139Fecha:1290508595369
+Las transacciones por segundo fueron: 682.2217901506054El contador da:140Fecha:1290508625383
+Las transacciones por segundo fueron: 687.1635496895786El contador da:141Fecha:1290508655410
+Las transacciones por segundo fueron: 692.0150995923202El contador da:142Fecha:1290508685448
+Las transacciones por segundo fueron: 696.8657670517941El contador da:143Fecha:1290508715461
+Las transacciones por segundo fueron: 701.8864750716606El contador da:144Fecha:1290508745469
+Las transacciones por segundo fueron: 706.9045355400127El contador da:145Fecha:1290508775478
+Las transacciones por segundo fueron: 711.9144192479997El contador da:146Fecha:1290508805484
+Las transacciones por segundo fueron: 716.88682676974El contador da:147Fecha:1290508835491
+Las transacciones por segundo fueron: 721.7215361068214El contador da:148Fecha:1290508865501
+Las transacciones por segundo fueron: 726.7466666490814El contador da:149Fecha:1290508895509
+Las transacciones por segundo fueron: 731.744153366298El contador da:150Fecha:1290508925516
+Las transacciones por segundo fueron: 736.6346398754163El contador da:151Fecha:1290508955523
+Las transacciones por segundo fueron: 741.6177205045351El contador da:152Fecha:1290508985540
+Las transacciones por segundo fueron: 746.6068833355534El contador da:153Fecha:1290509015564
+Las transacciones por segundo fueron: 751.5651213921345El contador da:154Fecha:1290509045574
+Las transacciones por segundo fueron: 756.5554253279589El contador da:155Fecha:1290509075587
+Las transacciones por segundo fueron: 761.4972421578889El contador da:156Fecha:1290509105594
+Las transacciones por segundo fueron: 766.4733972906096El contador da:157Fecha:1290509135600
+Las transacciones por segundo fueron: 771.4651916680033El contador da:158Fecha:1290509165606
+Las transacciones por segundo fueron: 776.4518058785937El contador da:159Fecha:1290509195616
+Las transacciones por segundo fueron: 781.3270527398112El contador da:160Fecha:1290509225626
+Las transacciones por segundo fueron: 786.3099673237895El contador da:161Fecha:1290509255639
+Las transacciones por segundo fueron: 791.2889296316368El contador da:162Fecha:1290509285651
+Las transacciones por segundo fueron: 796.258662264793El contador da:163Fecha:1290509315656
+Las transacciones por segundo fueron: 801.2376267825364El contador da:164Fecha:1290509345664
+Las transacciones por segundo fueron: 806.0228511802175El contador da:165Fecha:1290509375669
+Las transacciones por segundo fueron: 810.977788740835El contador da:166Fecha:1290509405674
+Las transacciones por segundo fueron: 815.9089578345046El contador da:167Fecha:1290509435679
+Las transacciones por segundo fueron: 820.8792425874058El contador da:168Fecha:1290509465686
+Las transacciones por segundo fueron: 825.7939992674928El contador da:169Fecha:1290509495697
+Las transacciones por segundo fueron: 830.6964402039289El contador da:170Fecha:1290509525711
+Las transacciones por segundo fueron: 835.6618220817171El contador da:171Fecha:1290509555716
+Las transacciones por segundo fueron: 840.3596084799319El contador da:172Fecha:1290509585733
+Las transacciones por segundo fueron: 845.3126598236145El contador da:173Fecha:1290509615741
+Las transacciones por segundo fueron: 850.0400509859902El contador da:174Fecha:1290509645752
+Las transacciones por segundo fueron: 855.0062369687882El contador da:175Fecha:1290509675769
+Las transacciones por segundo fueron: 859.9139700361674El contador da:176Fecha:1290509705788
+Las transacciones por segundo fueron: 864.8278713056004El contador da:177Fecha:1290509735800
+Las transacciones por segundo fueron: 869.5587195821611El contador da:178Fecha:1290509766145
+Las transacciones por segundo fueron: 874.4961371739938El contador da:179Fecha:1290509796155
+Las transacciones por segundo fueron: 879.1387906616189El contador da:180Fecha:1290509826182
+Las transacciones por segundo fueron: 884.0275647784998El contador da:181Fecha:1290509856188
+Las transacciones por segundo fueron: 888.8559763665224El contador da:182Fecha:1290509886195
+Las transacciones por segundo fueron: 893.4397342335363El contador da:183Fecha:1290509916261
+Las transacciones por segundo fueron: 898.1037533861547El contador da:184Fecha:1290509946269
+Las transacciones por segundo fueron: 902.6711327047772El contador da:185Fecha:1290509976655
+Las transacciones por segundo fueron: 907.1738455648699El contador da:186Fecha:1290510006669
+Las transacciones por segundo fueron: 911.8094818676798El contador da:187Fecha:1290510036684
+Las transacciones por segundo fueron: 915.8584526483314El contador da:188Fecha:1290510066691
+Las transacciones por segundo fueron: 920.4319938676125El contador da:189Fecha:1290510096709
+Las transacciones por segundo fueron: 924.4431404630707El contador da:190Fecha:1290510126844
+Las transacciones por segundo fueron: 926.881615321085El contador da:191Fecha:1290510156917
+Las transacciones por segundo fueron: 931.2609554542968El contador da:192Fecha:1290510186955
+Las transacciones por segundo fueron: 936.1359387221703El contador da:193Fecha:1290510216962
+Las transacciones por segundo fueron: 940.9262220917674El contador da:194Fecha:1290510246986
+Las transacciones por segundo fueron: 945.1379972296858El contador da:195Fecha:1290510276999
+Las transacciones por segundo fueron: 949.9074027628351El contador da:196Fecha:1290510307020
+Las transacciones por segundo fueron: 954.5489523347227El contador da:197Fecha:1290510337054
+Las transacciones por segundo fueron: 959.194143927404El contador da:198Fecha:1290510367088
+Las transacciones por segundo fueron: 963.8131555562312El contador da:199Fecha:1290510397131
+Las transacciones por segundo fueron: 967.4767467866493El contador da:200Fecha:1290510427138
+Las transacciones por segundo fueron: 971.9260251901073El contador da:201Fecha:1290510457150
+Las transacciones por segundo fueron: 976.727837406217El contador da:202Fecha:1290510487157
+Las transacciones por segundo fueron: 980.3525884254248El contador da:203Fecha:1290510517264
+Las transacciones por segundo fueron: 982.633391430035El contador da:204Fecha:1290510547986
+Las transacciones por segundo fueron: 986.2003450074217El contador da:205Fecha:1290510578008
+Las transacciones por segundo fueron: 990.9721968255926El contador da:206Fecha:1290510608024
+Las transacciones por segundo fueron: 995.478386084701El contador da:207Fecha:1290510638037
+Las transacciones por segundo fueron: 1000.2508784304185El contador da:208Fecha:1290510668046
+Las transacciones por segundo fueron: 1005.107055463482El contador da:209Fecha:1290510698060
+Las transacciones por segundo fueron: 1009.9542199273685El contador da:210Fecha:1290510728073
+Las transacciones por segundo fueron: 1014.6131219743475El contador da:211Fecha:1290510758105
+Las transacciones por segundo fueron: 1019.487548388609El contador da:212Fecha:1290510788115
+Las transacciones por segundo fueron: 1024.3933944954128El contador da:213Fecha:1290510818132
+Las transacciones por segundo fueron: 1029.077698945999El contador da:214Fecha:1290510848147
+Las transacciones por segundo fueron: 1033.9980033414406El contador da:215Fecha:1290510878172
+Las transacciones por segundo fueron: 1038.860904287176El contador da:216Fecha:1290510908200
+Las transacciones por segundo fueron: 1043.7115422015222El contador da:217Fecha:1290510938223
+Las transacciones por segundo fueron: 1048.5040874493995El contador da:218Fecha:1290510968235
+Las transacciones por segundo fueron: 1053.364640260229El contador da:219Fecha:1290510998248
+Las transacciones por segundo fueron: 1057.8588226349991El contador da:220Fecha:1290511028263
+Las transacciones por segundo fueron: 1062.6158091814807El contador da:221Fecha:1290511058271
+Las transacciones por segundo fueron: 1067.196309949745El contador da:222Fecha:1290511088279
+Las transacciones por segundo fueron: 1071.3105639466714El contador da:223Fecha:1290511118832
+Las transacciones por segundo fueron: 1073.665493191709El contador da:224Fecha:1290511148848
+Las transacciones por segundo fueron: 1077.8276398642747El contador da:225Fecha:1290511178882
+Las transacciones por segundo fueron: 1082.5062454172103El contador da:226Fecha:1290511208890
+Las transacciones por segundo fueron: 1086.9970500499153El contador da:227Fecha:1290511238928
+Las transacciones por segundo fueron: 1091.7729029596412El contador da:228Fecha:1290511268972
+Las transacciones por segundo fueron: 1096.1912995727296El contador da:229Fecha:1290511299080
+Las transacciones por segundo fueron: 1099.7611572830417El contador da:230Fecha:1290511329096
+Las transacciones por segundo fueron: 1104.1173497070035El contador da:231Fecha:1290511359143
+Las transacciones por segundo fueron: 1108.752721714579El contador da:232Fecha:1290511389153
+Las transacciones por segundo fueron: 1113.2878558258672El contador da:233Fecha:1290511419205
+Las transacciones por segundo fueron: 1117.4618500220965El contador da:234Fecha:1290511449210
+Las transacciones por segundo fueron: 1121.7431214781693El contador da:235Fecha:1290511479622
+Las transacciones por segundo fueron: 1125.8917102046184El contador da:236Fecha:1290511509764
